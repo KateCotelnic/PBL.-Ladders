@@ -1,0 +1,2 @@
+I 1 0 0 1 0 0 0 0
+start (closed contact I2 & open contact I0) V (open contact I3 & closed contact I4 & open contact M1) V (open contact I1 & inactive coil M1 & active coil Q0) end

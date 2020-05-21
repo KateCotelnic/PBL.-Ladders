@@ -1,0 +1,2 @@
+I 1 0 0 0 0 0 0 0
+start (open contact I0 & active coil Q0) end
